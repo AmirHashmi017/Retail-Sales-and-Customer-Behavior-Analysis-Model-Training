@@ -27,5 +27,5 @@ The dataset contains information about customer purchases including:
 - Spring is the most active shopping season
 - Weekly purchases are most common
 
-## License
-MIT License
+## References
+Medium Blog: https://medium.com/@amirhashmi017/1-introduction-408bb83013c1
