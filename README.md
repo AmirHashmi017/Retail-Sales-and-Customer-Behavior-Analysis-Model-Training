@@ -28,4 +28,4 @@ The dataset contains information about customer purchases including:
 - Weekly purchases are most common
 
 ## References
-Medium Blog: https://medium.com/@amirhashmi017/1-introduction-408bb83013c1
+Medium Blog: https://medium.com/@amirhashmi017/customer-shopping-data-trends-visualization-7d7600cc6d79
